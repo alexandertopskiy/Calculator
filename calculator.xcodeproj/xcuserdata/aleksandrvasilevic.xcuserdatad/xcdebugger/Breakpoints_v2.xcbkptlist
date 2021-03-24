@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2E3E5ED-87BA-4ABB-BC4B-3A7951C2E41D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A497342-E448-4EE1-BA14-9FFDEB4300B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "dotButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E40A4C49-2075-4AF0-9087-A16DA1D0D12D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "equalitySignPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E40A4C49-2075-4AF0-9087-A16DA1D0D12D - 90776bd35f690241"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator.ViewController.equalitySignPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandrvasilevic/Documents/Apps/iOS-Swift/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "831">
+               </Location>
+               <Location
+                  uuid = "E40A4C49-2075-4AF0-9087-A16DA1D0D12D - ce3b612496dbf05e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Double, Swift.Double) -&gt; Swift.Double in calculator.ViewController.equalitySignPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandrvasilevic/Documents/Apps/iOS-Swift/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
